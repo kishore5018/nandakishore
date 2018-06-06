@@ -10,6 +10,7 @@ public class crudoperations {
 	public static void insert() {
 		
 		try{
+			System.out.println("Insert Operation");
 			Scanner sc=new Scanner(System.in);
 			System.out.println("Enter the UserName::::::");
 			String username=sc.next();
