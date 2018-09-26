@@ -14,6 +14,7 @@ public class newclass extends classes
 	newclass(int x) {
 		super(x);
 		// TODO Auto-generated constructor stub
+		System.out.println("this is super constructor");
 	}
 
 	public static void main(String[] args) 
